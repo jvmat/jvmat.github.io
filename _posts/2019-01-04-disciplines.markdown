@@ -1,7 +1,7 @@
 ---
 title:  "FULL POKEDEX USD$"
 #subtitle: "Disciplines Offered"
-author: "Fernando Bastos"
+author: "José Vitor Novaes "
 image: "img/teaching/Disciplinas.jpg"
 ---
 
