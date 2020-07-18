@@ -6,86 +6,70 @@ image: "img/teaching/Disciplinas.jpg"
 ---
 
 ______________________________________
-<textarea style="text-align: center;width:100%;height:90px;background-color:grey;color:black;border:none;padding:2%;font:22px/30px sans-serif;">
-2019 - II
-</textarea>
-______________________________________
-
-[Matemática Computacional]
-
-<img src="img//icons//aluno.svg" width="30" height="30" /> - Prof. Fernando Bastos
-
-<img src="img//icons//relogio.png" width="30" height="30" /> - 60 horas
-
-<img src="img//icons//UFV.jpg" width="30" height="30" /> - Universidade Federal de Viçosa  
-
-<img src="img//icons//cursos.jpg" width="30" height="30" /> - Turma 1: Terça 10h00min-11h40min e Quinta 10h00-11h40min
-
-______________________________________
-
-[Álgebra Linear A]
-
-<img src="img//icons//aluno.svg" width="30" height="30" /> - Prof. Fernando Bastos
-
-<img src="img//icons//relogio.png" width="30" height="30" /> - 60 horas
-
-<img src="img//icons//UFV.jpg" width="30" height="30" /> - Universidade Federal de Viçosa  
-
-<img src="img//icons//cursos.jpg" width="30" height="30" /> - Turma 1: Terça 13h00min-14h40min e Quinta 15h00-16h40min
-
-______________________________________
+**READ EVERYTHING BEFORE BUYING**
+- The package costs 12 USD$ regardless of the payment method.
+- Satisfaction or your money back !!!!
+- It's not an exchange! You do not need to have any pokemon to give me in return, I will go straight to your Pokemon Home application. If you're new to Home, I teach the steps, it's very easy.
 
 
-[Recursos Computacionais no Ensino de Matemática]
+**THE PACKAGE HAS**
+- All pokemon from the 1st to the 7th generation (807 pokemon).
+- All with excellent status, moves, skills, natures etc.
+- Fast delivery (in approximately 10 minutes all pokemon will be in your "Pokemon Home")
 
-<img src="img//icons//aluno.svg" width="30" height="30" /> - Prof. Fernando Bastos
 
-<img src="img//icons//relogio.png" width="30" height="30" /> - 80 horas
 
-<img src="img//icons//UFV.jpg" width="30" height="30" /> - Universidade Federal de Viçosa  
+**OPTIONAL GIFTS**
+- All alternative forms of Deoxys, Burmy, Wormadam, Shellos, Gastrodon, Rotom, Giratina, Flabébé, Floette, Florges, Basculin, Deerling, Sawsbuck, Unown, Vivillon, Oricorio, Lycanroc, Minior, Pikachus de Boné, Tornadus, Thundurus, Landorus, Keldeo, Alola Formas, Pumpkaboo, Gourgeist, Zygarde, Meowstic, Hippopotas, Hipowdon.
 
-<img src="img//icons//cursos.jpg" width="30" height="30" /> - As sextas e sabádos em horários alternados com a disciplina de Geometria II.
 
-______________________________________
-<textarea style="text-align: center;width:100%;height:90px;background-color:grey;color:black;border:none;padding:2%;font:22px/30px sans-serif;">
-2019 - I
-</textarea>
-______________________________________
+- Extra: 2 Necrozmas and more 1 copy in solgaleo and lunala for fusion generating Necrozma Dusk and Necrozma Dawn
 
-[Iniciação à Estatística]
 
-<img src="img//icons//aluno.svg" width="30" height="30" /> - Prof. Fernando Bastos
+- Extra: 2 Kyurem and more 1 copy in Reshiram and Zekrom for fusion gerating Black Kyurem and White Kyurem
 
-<img src="img//icons//relogio.png" width="30" height="30" /> - 60 horas
 
-<img src="img//icons//UFV.jpg" width="30" height="30" /> - Universidade Federal de Viçosa  
+**THE PACKAGE DOES NOT HAVE**
 
-<img src="img//icons//cursos.jpg" width="30" height="30" /> - 
+- 8th generation Pokemon are not included. (ie Galar pokemon).
 
-Turma 1 - Terça 13h00min-14h40min e Quinta 15h00min-16h40min
 
-Turma 2 - Terça 18h30min-20h10min e Quinta 20h30min-22h10min
 
-<img src="img//icons//finish.png" width="30" height="30" /> - Concluído
 
-__________________________________
 
-[Estatística Experimental]
+- You can choose all normal or shiny dex. This does not apply to gifts, which will all be normal.
 
-<img src="img//icons//aluno.svg" width="30" height="30" /> - Prof. Fernando Bastos
 
-<img src="img//icons//relogio.png" width="30" height="30" /> - 60 horas
 
-<img src="img//icons//UFV.jpg" width="30" height="30" /> - Universidade Federal de Viçosa  
+- Until now, we are only delivering through Pokemon Home (we are not delivering for switch)
 
-<img src="img//icons//cursos.jpg" width="30" height="30" /> - Turma 1: Terça 15h00min-16h40min e Quinta 13h00-14h40min
 
-<img src="img//icons//finish.png" width="30" height="30" /> - Concluído
+- You need to have Premium access to "Pokemon Home" on your smartphone or Nintendo Switch to receive the product.
 
-__________________________________________________________________
 
-[Iniciação à Estatística]: http://maf105.github.io
-[Estatística Experimental]: http://maf261.github.io
-[Matemática Computacional]: http://maf172.github.io
-[Álgebra Linear A]: http://maf335.github.io
-[Recursos Computacionais no Ensino de Matemática]: http://maf172.github.io
+
+
+- 100% of customers rated it positive! Over 40,000 pokemon delivered with 0 errors.
+
+
+
+- I answer the questions and deliver as quickly as possible.
+
+**Payment methods**
+Before making a payment, contact some of the available social networks
+
+
+
+
+We are currently working with 1 payment methods abroad
+
+
+**PAYPAL**
+
+<img src="img//icons//pay.jpg" width="30" height="30" /> - [PAYPAL] jvkiler1@gmail.com
+
+
+
+
+
+
