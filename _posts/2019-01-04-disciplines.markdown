@@ -29,7 +29,7 @@ ______________________________________
 - Extra: 2 Kyurem and more 1 copy in Reshiram and Zekrom for fusion gerating Black Kyurem and White Kyurem
 
 
-**THE PACKAGE DOES NOT HAVE**
+**INFOS**
 
 - 8th generation Pokemon are not included. (ie Galar pokemon).
 
@@ -65,6 +65,7 @@ We are currently working with 1 payment methods abroad
 
 
 **PAYPAL**
+
 
 <img src="img//icons//pay.jpg" width="30" height="30" /> - [PAYPAL] jvkiler1@gmail.com
 
