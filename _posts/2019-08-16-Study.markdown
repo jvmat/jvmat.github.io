@@ -1,8 +1,8 @@
 ---
-title:  "POKEMON EVENTS"
+title:  "POKEMON EVENTS R$"
 #subtitle: "teste."
 author: "José Vitor Novaes"
-image: "img/Blog/card_img.png"
+image: "img/Blog/card_img.jpg"
 date:   2019-01-01 12:12:12
 ---
 
@@ -24,7 +24,7 @@ date:   2019-01-01 12:12:12
 
 
 
-**O PACOTE NÃO POSSUI**
+**Informações**
 
 - Pokemon da 8ª geração não estão incluídos. (ou seja, pokemon de Galar).
 
