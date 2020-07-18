@@ -1,0 +1,129 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}" />
+    <meta name="keywords" content="{{ site.keywords }}" />
+    <meta name="author" content="{{ site.author }}" />
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css"
+        type="text/css"> -->
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="css/modern-blog2.css" />
+    <link rel="stylesheet" type="text/css" href="css/card.css" />
+    <link rel="stylesheet" type="text/css" href="css/pattern.css" />
+
+    <!--[if IE]>
+    <script type="text/javascript" src="js/vendors/html5.min.js"></script>
+    <![endif]-->
+    <script>
+        if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
+            var root = document.getElementsByTagName('html')[0];
+            root.setAttribute('class', 'ff');
+        }
+    </script>
+</head>
+
+<body class="demo-2">
+    
+    
+    <div class="container">
+
+        <header class="codrops-header">
+
+            <h1>Fernando de Souza Bastos<span>Professor de Matemática e Estatística</span><span>Universidade Federal de Viçosa Campus UFV - Florestal</span></h1><br>
+
+            <nav class="links">
+<a target="_blank" style="opacity: 1;" href="http://lattes.cnpq.br/9772451905214345   "><i class="ai ai-3x ai-lattes"></i></a>
+    <a target="_blank" style="opacity: 1;" href="mailto:fernando.bastos@ufv.<br />"><i class="fa fa-3x fa-envelope"></i></a>
+    <a target="_blank" style="opacity: 1;" href="https://github.com/fsbmat-ufv"><i class="fa fa-3x fa-github"></i></a>
+    <a href="https://scholar.google.com.br/citations?user=Y0dfEGoAAAAJ&hl=pt-BR&authuser=1"><i class="ai ai-3x ai-google-scholar"></i></a>
+    <a target="_blank" style="opacity: 1;" href="https://www.researchgate.net/profile/Fernando_Bastos7?ev=hdr_xprf  "><i class="ai ai-3x ai-researchgate"></i></a>
+    <a target="_blank" style="opacity: 1;" href="https://orcid.org/0000-0003-1503-4599"><i class="ai ai-3x ai-orcid"></i></a>
+          <a target="_blank" style="opacity: 1;" href="https://www.mendeley.com/?interaction_required=true"><i class="ai ai-3x ai-mendeley"></i></a>
+    <a target="_blank" style="opacity: 1;" href="https://www.overleaf.com?r=4468ebc9&rm=d&rs=<b></b>"><i class="ai ai-3x ai-overleaf"></i></a>
+    <a href="https://twitter.com/fsbmat"><i class="fa fa-twitter-square fa-3x"></i></a>
+    <a href="https://www.linkedin.com/in/fsbmat/"><i class="fa fa-linkedin fa-3x"></i></a>
+               <!--  <a href="https://fsbmat-ufv.github.io/#/whois"><i class="fa fa-user-o fa-2x" aria-hidden="true"></i><br>about
+                    me</a>-->
+
+                <!-- <a href="#"><i class="fa fa-instagram fa-3x"></i></a>
+            <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a>
+            <a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a> -->
+  </nav>
+<!--  
+<nav class="buttons"> <ul> <a href="index.html"><li>Home</li></a> <a href="about.html"><li>About</li></a> <a href="contact.html"><li>Contact</li></a> </ul> </nav>-->
+
+        </header>
+
+        <div class="content">
+            <!-- trianglify pattern container -->
+
+            <div class="pattern pattern--hidden"></div>
+            <!-- cards -->
+
+            <div class="wrapper">
+
+                {% for post in site.posts %}
+                <div class="card" data-id="{{ post.id }}">
+                    <div class="card__container card__container--closed">
+                        <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
+                            xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500"
+                            preserveAspectRatio="xMidYMid slice">
+                            <defs>
+                                <clipPath id="{{ post.id }}-clip-path">
+                                   <!--  <circle class="clip" cx="960" cy="250" r="992"></circle>-->
+                                    <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon> 
+                                </clipPath>
+                            </defs>
+                            <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="500"
+                                xlink:href="{{ post.image }}"></image>
+                        </svg>
+                        <div class="card__content">
+                            <i class="card__btn-close fa fa-times"></i>
+                            <div class="card__caption">
+                                <h2 class="card__title">{{ post.title }}</h2>
+                                <p class="card__subtitle">{{ post.subtitle }}</p>
+                            </div>
+                            <div class="card__copy">
+                                <div class="meta">
+                                    <img class="meta__avatar" src="{{ post.avatar }}" />
+                                    <span class="meta__author">{{ post.author }}</span>
+                                   <!-- <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>-->
+                                </div>
+                                <a href="index.html" class="button">Home</a>
+                                {{ post.content }}
+                                <a href="index.html" class="button">Back</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+                <!-- /cards -->
+            </div>
+        </div>
+        <!-- /container -->
+    </div>
+
+
+    <!-- JS -->
+    <!-- Tdos .js sao necessarios para que os cards funcionem -->
+    <script src="js/vendors/trianglify.min.js"></script>
+    <script src="js/vendors/TweenMax.min.js"></script>
+    <script src="js/vendors/ScrollToPlugin.min.js"></script>
+    <script src="js/vendors/cash.min.js"></script>
+    <script src="js/Card-polygon.js"></script>
+    <script src="js/modern-blog.js"></script>
+</body>
+
+</html>
