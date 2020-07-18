@@ -1,6 +1,6 @@
 ---
-title:  "Courses"
-subtitle: "Disciplines Offered"
+title:  "FULL POKEDEX USD$"
+#subtitle: "Disciplines Offered"
 author: "Fernando Bastos"
 image: "img/teaching/Disciplinas.jpg"
 ---
