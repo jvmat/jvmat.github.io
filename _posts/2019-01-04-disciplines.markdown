@@ -1,76 +1,37 @@
 ---
-title:  "FULL POKEDEX USD$"
+title:  "Projetos Futuros"
 #subtitle: "Disciplines Offered"
 author: "José Vitor Novaes "
 image: "img/teaching/Disciplinas.jpg"
 ---
 
 ______________________________________
-**READ EVERYTHING BEFORE BUYING**
-- The package costs 12 USD$ regardless of the payment method.
-- Satisfaction or your money back !!!!
-- It's not an exchange! You do not need to have any pokemon to give me in return, I will go straight to your Pokemon Home application. If you're new to Home, I teach the steps, it's very easy.
+### Projetos Futuros:
+Estou entusiasmado em compartilhar meus planos para dois projetos futuros que visam tornar a aprendizagem divertida e envolvente. Cada um desses projetos oferece uma abordagem única para o ensino de conceitos importantes.
 
 
-**THE PACKAGE HAS**
-- All pokemon from the 1st to the 7th generation (807 pokemon).
-- All with excellent status, moves, skills, natures etc.
-- Fast delivery (in approximately 10 minutes all pokemon will be in your "Pokemon Home")
+**Projeto 1: Aperfeiçoando o Cálculo de Juros e Desconto**
 
 
+O primeiro projeto que estou desenvolvendo se concentra na educação financeira. Nossa missão é tornar o cálculo de juros e desconto mais acessível e compreensível para todos. Entendemos que esses conceitos podem ser desafiadores, mas são fundamentais para tomar decisões financeiras informadas.
 
-**OPTIONAL GIFTS**
-- All alternative forms of Deoxys, Burmy, Wormadam, Shellos, Gastrodon, Rotom, Giratina, Flabébé, Floette, Florges, Basculin, Deerling, Sawsbuck, Unown, Vivillon, Oricorio, Lycanroc, Minior, Pikachus de Boné, Tornadus, Thundurus, Landorus, Keldeo, Alola Formas, Pumpkaboo, Gourgeist, Zygarde, Meowstic, Hippopotas, Hipowdon.
-
-
-- Extra: 2 Necrozmas and more 1 copy in solgaleo and lunala for fusion generating Necrozma Dusk and Necrozma Dawn
+No jogo que estamos criando, os jogadores enfrentarão situações financeiras do dia a dia e serão desafiados a calcular juros, descontos e taxas de forma prática. Ao fazer isso, eles desenvolverão habilidades financeiras essenciais que os ajudarão a tomar decisões inteligentes sobre empréstimos, investimentos e economia pessoal.
 
 
-- Extra: 2 Kyurem and more 1 copy in Reshiram and Zekrom for fusion gerating Black Kyurem and White Kyurem
+**Projeto 2: Explorando a Geometria de Maneira Interativa**
+
+Nosso segundo projeto é um emocionante mergulho na geometria. A geometria é uma parte fundamental da matemática e tem aplicações em muitos campos da ciência e engenharia. No entanto, ela também pode ser desafiadora para muitos estudantes.
+
+Em nosso jogo de geometria, os jogadores serão convidados a explorar o mundo das formas e medidas de uma forma interativa e divertida. Eles terão a oportunidade de calcular áreas, montar figuras geométricas e até mesmo reconhecer formas complexas. A importância disso vai além da sala de aula; a geometria desempenha um papel vital na arquitetura, design gráfico, engenharia e muitas outras disciplinas.
 
 
-**INFOS**
-
-- 8th generation Pokemon are not included. (ie Galar pokemon).
-
+**A importância desses assuntos em sala de aula**
+Imagine um mundo em que todos tenham uma compreensão sólida de finanças pessoais. Isso poderia ajudar as pessoas a evitar armadilhas financeiras, economizar dinheiro para objetivos importantes e construir um futuro financeiro mais seguro.
 
 
+Da mesma forma, a geometria está por toda parte em nossa vida cotidiana. Dos designers gráficos que criam belos layouts até os arquitetos que projetam edifícios impressionantes, a geometria é a base para muitas profissões criativas e técnicas.
 
-
-- You can choose all normal or shiny dex. This does not apply to gifts, which will all be normal.
-
-
-
-- Until now, we are only delivering through Pokemon Home (we are not delivering for switch)
-
-
-- You need to have Premium access to "Pokemon Home" on your smartphone or Nintendo Switch to receive the product.
-
-
-
-
-- 100% of customers rated it positive! Over 40,000 pokemon delivered with 0 errors.
-
-
-
-- I answer the questions and deliver as quickly as possible.
-
-**Payment methods**
-Before making a payment, contact some of the available social networks
-
-
-
-
-We are currently working with 1 payment methods abroad
-
-
-**PAYPAL**
-
-
-<img src="img//icons//pay.jpg" width="30" height="30" /> - [PAYPAL] jvkiler1@gmail.com
-
-
-
+Estes projetos estão em andamento, e mal posso esperar para compartilhar mais detalhes à medida que eles evoluem. Espero que vocês estejam tão empolgados quanto eu para embarcar nesta jornada de aprendizado interativo. Fiquem atentos para atualizações e, como sempre, valorizo suas ideias e feedback. Juntos, podemos tornar a matemática, a educação financeira e a geometria mais acessíveis e emocionantes para todos.
 
 
 
