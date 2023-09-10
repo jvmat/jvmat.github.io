@@ -2,7 +2,7 @@
 title:  "Projetos Futuros"
 #subtitle: "Disciplines Offered"
 author: "José Vitor Novaes "
-image: "img/teaching/Disciplinas.jpg"
+image: "img/teaching/oi.jpg"
 ---
 
 ______________________________________
